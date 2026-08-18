@@ -1,4 +1,4 @@
-Bom dia, Boa tarde e Boa noite.
+Bom dia, Boa tarde e Boa noite
 ==================================
 
 Sobre mim
